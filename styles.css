@@ -96,6 +96,7 @@ body {
 }
 
 .contact-info__block--center {
+    flex-direction: row;
     justify-content: center;
 }
 
